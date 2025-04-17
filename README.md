@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello guys, I'm Salith from Bangladesh 🇧🇩 and always hungry for new knowledge and challenges  😎 . That’s why I’m learning React Native, Electron.js, and Tailwind. These tools will help me build amazing web and mobile apps that will blow your mind 🤯 💬. I love talking about it and sharing my tips and tricks. Or better yet, let’s code something together. I’m sure we can learn a lot from each other. 🙌
+Hey everyone! I'm Salith from Bangladesh 🇧🇩 always hungry for new knowledge and challenges 😎. Right now Im diving into React Native, Electron.js, and Tailwind to build some awesome web and mobile apps that (hopefully) blow your mind 🤯💬.
+I love chatting about tech, sharing cool tips and tricks and even better building stuff together! 
+When I’m not coding, I’m usually playing Counter-Strike(my favorite game) or Arma 3. If you're into games too, feel free to add me on Steam let’s squad up sometime! 🎮
 
 
 ## 🌐 Socials:
