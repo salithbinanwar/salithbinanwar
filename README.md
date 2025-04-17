@@ -3,7 +3,7 @@ Hello guys, I'm Salith from Bangladesh 🇧🇩 and always hungry for new knowle
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CWF3kWTduv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salithh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salith-anwar-372276208) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HumbleSheepherder405) [![Steam](https://img.shields.io/badge/Steam-%23171A21.svg?logo=Steam&logoColor=white)] (https://steamcommunity.com/profiles/76561199037846118/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CWF3kWTduv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salithh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salith-anwar-372276208) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HumbleSheepherder405) [![Steam](https://img.shields.io/badge/Steam-%23171A21.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199037846118/) 
 
 <a href="https://www.hackerrank.com/salithanwar69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salithanwar69" height="30" width="40" /></a>
 </p>
